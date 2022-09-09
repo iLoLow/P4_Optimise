@@ -9,6 +9,7 @@ body {
 .width-img img{
     width: 100%;
 }
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -308,6 +309,8 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
+    width: 217px;
+    height: 40px;
 }
 
 .navbar-brand img[src$=svg] {
@@ -779,6 +782,12 @@ h4 {
 .col-sm-12 p{
     color: #000000!important;
 }
+.logo{
+    width:100px; 
+    height:100px;
+    align-items: center;
+}
+
 
 .tc-white {
     color: black!important;
